@@ -1,0 +1,30 @@
+C++ Drawbacks
+
+>> Challenging to learn
+>> Easy to introduce terrible bugs
+>> Often time-consuming
+>> Not truly platform-independent
+
+
+So why learn C++
+
+>> Very Fast
+>> Low-level / hardware access
+>> Can get a lot of processing done in a short time 
+>> Good for high-end games, AI , device drivers
+>> Pushes you to understand your computer
+>> Badge of honour!
+
+Compilers
+
+>> GNU G++/GCC
+>> MinGW
+>> Visual C++ Compiler
+
+IDE 
+
+>> Eclipse CDT
+>> Visual C++
+>> CodeBlokcs
+>> Emacs , VIM etc.
+    
